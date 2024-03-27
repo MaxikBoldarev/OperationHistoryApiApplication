@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "processing.sleepMilliSeconds",
+      "type": "java.lang.String",
+      "description": "Description for processing.sleepMilliSeconds."
+  }
+] }
